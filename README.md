@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a software engineer focusing on data-centric problem solving. 
+
+I currently work at [rideOS](https://rideos.ai/) where I am focusing on building ETA (estimated time of arrival) improvement models.
+
+In my spare time, I like to work on personal projects and also contribute to the open source community
+
 <!--
 **sowmyay/sowmyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
