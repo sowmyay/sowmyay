@@ -6,6 +6,8 @@ I currently work at [rideOS](https://rideos.ai/) where I am focusing on building
 
 In my spare time, I like to work on personal projects and also contribute to the open source community
 
+Check out my [portfolio](https://sowmyay.github.io/), [medium blog](https://medium.com/ml-cheat-sheet) and [personal blog](https://sowmyay.github.io/blog/)
+
 <!--
 **sowmyay/sowmyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
