@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-I am a software engineer focusing on data-centric problem solving. 
+I am a ML engineer, currently building systems at [Gopuff](https://www.gopuff.com/) to train and deploy ML models. 
 
-I currently work at [rideOS](https://rideos.ai/) where I am focusing on building ETA (estimated time of arrival) improvement models.
-
-In my spare time, I like to work on personal projects and also contribute to the open source community
-
-Check out my [portfolio](https://sowmyay.github.io/), [medium blog](https://medium.com/ml-cheat-sheet) and [personal blog](https://sowmyay.github.io/blog/)
+Check out my [portfolio](https://sowmyay.github.io/), [medium blog](https://medium.com/ml-cheat-sheet) and [personal blog](https://sowmya.de/)
 
 <!--
 **sowmyay/sowmyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
